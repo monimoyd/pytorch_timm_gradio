@@ -13,7 +13,7 @@ from typing import Dict
 import boto3
 
 AWS_ACCESS_KEY='<AWS ACCESS KEY>'
-AWS_SECRET_KEY='<AWS ACCESS KEY>'
+AWS_SECRET_KEY='<AWS SECRET KEY>'
 BUCKET_NAME='<AWS BUCKET>'
 MODEL_PATH='model.script.pt'
 
